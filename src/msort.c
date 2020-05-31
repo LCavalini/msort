@@ -1,4 +1,4 @@
-/*	msort msort.h
+/*	msort msort.c
 		author: lcavalini <lucas.cavalini.barboza@gmail.com>
 		license: GPLv3
 */
